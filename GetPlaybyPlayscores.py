@@ -64,4 +64,4 @@ for game in gamesdata['Boxscore_Page']:
 
 findata=pd.DataFrame(data2)    
 # exporting play by play data to csv
-findata.to_csv(r'C:\Users\sachi\Documents\DDDM code\finalfile.csv')
+findata.to_csv(r'C:\finalfile.csv')
